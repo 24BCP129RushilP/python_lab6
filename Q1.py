@@ -1,4 +1,4 @@
-name =[("alone","abc","het"),"visha",("denish",),"vanshika",("vikas",),"nirmit"]
+name =[("alone","abc","het"),"visha",("denish",),"vanshika",("vikas",)]
 boys_count=0
 girls_count=0
 for ele in name:
